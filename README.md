@@ -6,6 +6,5 @@ Details:
 Problem Type: CLASSIFICATION
 Algorithm: RANDOM FOREST CLASSIFIER
 
-Class - 0 means not authentic
-
+Class - 0 means not authentic<br />
 Class - 1 means authentic
